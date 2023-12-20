@@ -1,0 +1,35 @@
+{
+  "elements" : [ {
+    "combinationType" : "FUNCTION",
+    "elementName" : "AbortOnSyntaxCheck",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false
+  }, {
+    "combinationType" : "FUNCTION",
+    "elementName" : "CustomerId",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false
+  }, {
+    "combinationType" : "FUNCTION",
+    "elementName" : "Region",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false
+  }, {
+    "combinationType" : "FUNCTION",
+    "elementName" : "BuildWithSteps",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false
+  } ],
+  "status" : "ACTIVE",
+  "uniqueName" : "RegionalPricingQuoteWorkflow",
+  "validAfter" : "2019-01-01",
+  "workflowType" : "quote"
+}

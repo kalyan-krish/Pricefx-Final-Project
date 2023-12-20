@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/CompetitionPricing+2000-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/LoadPricelistIntoDatamart+2000-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/MoneyUtils+2010-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/RegionalPricingPricelist+2010-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/RegionalPricingQuoteHeader+2019-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/RegionalPricingQuoteLine+2010-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WorkflowFormula/RegionalPricingQuoteWorkflow+2019-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WorkflowFormula/pricelist+2019-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+  </component>
+</module>

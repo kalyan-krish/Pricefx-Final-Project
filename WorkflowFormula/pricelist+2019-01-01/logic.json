@@ -1,0 +1,40 @@
+{
+  "elements" : [ {
+    "combinationType" : "FUNCTION",
+    "elementLabel" : "AbortInputGeneration",
+    "elementName" : "AbortInputGeneration",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false
+  }, {
+    "combinationType" : "FUNCTION",
+    "elementLabel" : "Get MarginPct",
+    "elementName" : "GetMarginpct",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false
+  }, {
+    "combinationType" : "FUNCTION",
+    "elementLabel" : "GetBusinessUnit",
+    "elementName" : "GetBusinessUnit",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false
+  }, {
+    "combinationType" : "FUNCTION",
+    "elementLabel" : "Pricelist Workflow",
+    "elementName" : "pricelistworkflow",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false
+  } ],
+  "label" : "Pricelist Workflow",
+  "status" : "ACTIVE",
+  "uniqueName" : "pricelist",
+  "validAfter" : "2019-01-01",
+  "workflowType" : "pricelist"
+}
